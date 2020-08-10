@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "admin2-delivery"
+    _PROJECT_NAME: "smkong-delivery"
 
 phases:
   install:
